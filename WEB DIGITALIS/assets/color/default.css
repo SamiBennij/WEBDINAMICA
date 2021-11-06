@@ -1,0 +1,127 @@
+::-moz-selection {
+    background: #a258a3;
+}
+::selection {
+    background: #a258a3;
+}
+
+a {
+    color: #a258a3;
+}
+
+a:hover {
+	color: #2984c0;
+}
+
+/* --- button theme --- */
+.btn-theme {
+    background: #a258a3;
+    *background-color: #a258a3;
+}
+
+    .btn-theme:hover,
+    .btn-theme:active,
+    .btn-theme.active,
+    .btn-theme.disabled,
+    .btn-theme[disabled] {
+        background: #a258a3;
+        *background: #a258a3;
+    }
+
+/* --- slogan --- */
+.slogan h1 span {
+    color: #a258a3;
+}
+
+.tweet a {
+    color: #a258a3;
+}
+
+.tweet .tweet_time a:hover i {
+    color: #a258a3;
+}
+
+
+
+/* fontawesome icons */
+.icon-square:hover,
+.icon-rounded:hover,
+.icon-circled:hover {
+    background-color: #a258a3;
+}
+[class^="icon-"].active,
+[class*=" icon-"].active {
+    background-color: #a258a3;
+}
+
+
+
+
+.navbar .nav > li > a:hover {
+    color: #a258a3;
+}
+
+
+ul.nav li.current {
+    background: #a258a3;
+}
+.dropdown-menu li > a:hover,
+.dropdown-menu li > a:focus,
+.dropdown-submenu:hover > a {
+    background: #a258a3;
+}
+
+input:focus, textarea:focus {
+    border: 1px solid #a258a3;
+    border-width: 4px;
+}
+textarea:focus,
+input[type="text"]:focus,
+input[type="password"]:focus,
+input[type="datetime"]:focus,
+input[type="datetime-local"]:focus,
+input[type="date"]:focus,
+input[type="month"]:focus,
+input[type="time"]:focus,
+input[type="week"]:focus,
+input[type="number"]:focus,
+input[type="email"]:focus,
+input[type="url"]:focus,
+input[type="search"]:focus,
+input[type="tel"]:focus,
+input[type="color"]:focus,
+.uneditable-input:focus {
+    border-color: #a258a3;
+}
+
+ul.contact-list li input.form_input:focus,
+ul.contact-list li textarea.form_textarea:focus {
+    border-color: #a258a3;
+}
+
+
+/* tab */
+
+.nav-tabs > a {
+    color: #a258a3;
+}
+
+
+/* accordion */
+.accordion-heading a:hover {
+    color: #a258a3;
+}
+.accordion-heading .active {
+    color: #a258a3;
+}
+
+.accordion-inner {
+
+}
+
+
+/* portfolio */
+
+.thumb-wrapp {
+    background: #a258a3;
+}
